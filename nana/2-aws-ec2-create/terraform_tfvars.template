@@ -1,0 +1,7 @@
+vpc_cidr_blocks = ""
+subnet_cidr_blocks = ""
+avail_zone = ""
+env_prefix = ""
+allowed_ip = "" # your ip
+instance_type = "t2.micro"
+public_key_location = "/home/mobaxterm/.ssh/id_rsa.pub"
