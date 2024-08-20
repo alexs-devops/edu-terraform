@@ -1,0 +1,5 @@
+---
+username: 
+password: 
+## Added for reference; should not
+## Encoded with aws kms encrypt as yaml.encrypted
